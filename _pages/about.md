@@ -36,3 +36,18 @@ Teaching
   Teaching Assistant, with Prof. Marco Morales Aguirre
 * **EECS 445 Intro to Machine Learning**, UM, 2020 Fall <br>
   Instructional Aide, with Dr. Sindhu Kutty
+
+
+<!-- ![](/images/1.jpg) ![](/images/2.jpg)
+
+<p float="left">
+  <img src="/images/1.jpg" width="390" /> <img src="/images/2.jpg" width="350" /> 
+  <img src="/images/3.jpg" width="380" /> <img src="/images/5.jpg" width="380" /> 
+  <!-- <img src="/img3.png" width="100" /> -->
+<!-- </p> -->
+
+<!-- |<img src="/images/3.jpg" width="390" />|<img src="/images/2.jpg" width="350" /> |
+|---------------------------------------|----------------------------------------|
+|<img src="/images/5.jpg" width="380" />| <img src="/images/6.jpg" width="380" />|
+|---------------------------------------|----------------------------------------|
+|<img src="/images/1.jpg" width="380" />| <img src="/images/4.jpg" width="380" />| -->

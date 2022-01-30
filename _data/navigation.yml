@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: https://yifei-he.github.io/files/Resume.pdf
+
+  - title: "Misc"
+    url: /misc/
     
   # - title: "Guide"
   #   url: /markdown/

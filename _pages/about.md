@@ -51,3 +51,5 @@ Teaching
 |<img src="/images/5.jpg" width="380" />| <img src="/images/6.jpg" width="380" />|
 |---------------------------------------|----------------------------------------|
 |<img src="/images/1.jpg" width="380" />| <img src="/images/4.jpg" width="380" />| -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=8288ae&w=a&t=n&d=ly59zV1UzWi2oiROhB1R4JdoWHGFOp3VzSfO2zqMAPQ&co=ffffff&cmo=ff5378&cmn=ff5353&ct=ffffff"></script>

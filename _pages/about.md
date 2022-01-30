@@ -25,7 +25,7 @@ Education
 
 Publication
 ======
-* [A Hierarchical Approach to Multi-Event Survival Analysis.](https://ojs.aaai.org/index.php/AAAI/article/view/16138) <br>
+* [A Hierarchical Approach to Multi-Event Survival Analysis.](https://www.aaai.org/AAAI21Papers/AAAI-8417.TjandraD.pdf) <br>
   Tjandra, D., **He, Y.**, & Wiens, J. (2021). Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021).
 
 Teaching

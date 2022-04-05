@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. in Computer Science student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). 
+I am an M.S. in Computer Science student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). 
 
-I am broadly interested in machine learning, especially transfer learning. Currently, I am working with [Prof. Han Zhao](https://hanzhaoml.github.io/) on multimodal representation learning and domain adaptation. 
+I am broadly interested in machine learning, especially transfer learning. Currently, I am working on multimodal learning and domain adaptation. 
 
 At University of Michigan, I worked on deep learning for survival analysis with [Prof. Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I also worked on reinforcement learning for sequential conformer search with [Prof. Ambuj Tewari](https://ambujtewari.github.io/).
 

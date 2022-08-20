@@ -35,7 +35,7 @@ Publications
 
 Teaching
 ======
-* **CS 357 Numerical Methods I**, UIUC, 2022 Spring <br>
+* **CS 357 Numerical Methods I**, UIUC, 2022 Fall 2022 & 2022 Spring <br>
   Teaching Assistant, with Prof. Mariana Silva
 * **CS 441 Applied Machine Learning**, UIUC, 2021 Fall <br>
   Teaching Assistant, with Prof. Marco Morales Aguirre

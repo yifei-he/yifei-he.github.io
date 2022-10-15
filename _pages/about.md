@@ -32,6 +32,9 @@ Publications
 * [A Hierarchical Approach to Multi-Event Survival Analysis.](https://www.aaai.org/AAAI21Papers/AAAI-8417.TjandraD.pdf) <br>
   Donna Tjandra, **Yifei He**, Jenna Wiens. <br>
   In <em>Proceedings of the 35th AAAI Conference on Artificial Intelligence.</em> (**AAAI 2021**)
+* [Conformer-RL: A Deep Reinforcement Learning Library for Conformer Generation.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26984) <br>
+  Runxuan Jiang, Tarun Gogineni, Joshua Kammeraad, **Yifei He**, Ambuj Tewari, Paul Zimmerman.   <br>
+  In <em>Journal of Computational Chemistry.</em>
 
 Teaching
 ======

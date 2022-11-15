@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. in Computer Science student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). 
+I am an M.S. in Computer Science student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
 
-I am broadly interested in machine learning, especially transfer learning. My long-term research goal is to build efficient, generalizable and robust machine learning systems. Currently, I am working on domain adaptation, domain generalization and multimodal learning. 
+My long-term research goal is to build efficient, generalizable and robust machine learning systems. I currently work on trustworthy machine learning, including domain adaptation/generalization, multimodal learning and application in healthcare. 
 
 At University of Michigan, I worked on deep learning for survival analysis with [Prof. Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I also worked on reinforcement learning for sequential conformer search with [Prof. Ambuj Tewari](https://ambujtewari.github.io/).
 
@@ -39,11 +39,11 @@ Publications
 Teaching
 ======
 * **CS 357 Numerical Methods I**, UIUC, 2022 Fall & 2022 Spring <br>
-  Teaching Assistant, with Prof. Mariana Silva
+  Teaching Assistant
 * **CS 441 Applied Machine Learning**, UIUC, 2021 Fall <br>
-  Teaching Assistant, with Prof. Marco Morales Aguirre
+  Teaching Assistant
 * **EECS 445 Intro to Machine Learning**, UM, 2020 Fall <br>
-  Instructional Aide, with Dr. Sindhu Kutty
+  Instructional Aide
 
 
 <!-- ![](/images/1.jpg) ![](/images/2.jpg)

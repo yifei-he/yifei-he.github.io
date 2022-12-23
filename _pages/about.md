@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. in Computer Science student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
+I am a Computer Science graduate student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
 
 My long-term research goal is to build efficient, generalizable and robust machine learning systems. I currently work on trustworthy machine learning, including domain adaptation/generalization, multimodal learning and application in healthcare. 
 

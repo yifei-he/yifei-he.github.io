@@ -17,11 +17,11 @@ At University of Michigan, I worked on deep learning for survival analysis with 
 Education
 ======
 * **University of Illinois Urbana-Champaign**, Urbana, IL, USA <br>
-  M.S. in Computer Science | Aug 2021 - May 2023 (expected)
+  Master in Computer Science | Aug 2021 - May 2023 (expected)
 * **University of Michigan**, Ann Arbor, MI, USA <br>
-  B.S.E. in Data Science, minor in Mathematics | Aug 2019 - May 2021
+  Bachelor in Data Science, minor in Mathematics | Aug 2019 - May 2021
 * **Shanghai Jiao Tong University**, Shanghai, China <br>
-  B.S.E. in Electrical and Computer Engineering | Sept 2017 - Aug 2021
+  Bachelor in Electrical and Computer Engineering | Sept 2017 - Aug 2021
 
 Publications
 ======

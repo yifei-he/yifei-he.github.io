@@ -8,24 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science graduate student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
+I am a Computer Science master student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
 
-My long-term research goal is to build efficient, generalizable and robust machine learning systems. I currently work on trustworthy machine learning, including domain adaptation/generalization, multimodal learning and application in healthcare. 
+My long-term research goal is to build efficient, generalizable and robust machine learning systems. I currently work on trustworthy machine learning, including domain adaptation/generalization, multi-task learning, multimodal learning and application in healthcare. 
 
 At University of Michigan, I worked on deep learning for survival analysis with [Prof. Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I also worked on reinforcement learning for sequential conformer search with [Prof. Ambuj Tewari](https://ambujtewari.github.io/).
 
 Education
 ======
 * **University of Illinois Urbana-Champaign**, Urbana, IL, USA <br>
-  Master in Computer Science | Aug 2021 - May 2023 (expected)
+  M.S. in Computer Science | Aug 2021 - May 2023 (expected)
 * **University of Michigan**, Ann Arbor, MI, USA <br>
-  Bachelor in Data Science, minor in Mathematics | Aug 2019 - May 2021
+  B.S.E. in Data Science, minor in Mathematics | Aug 2019 - May 2021
 * **Shanghai Jiao Tong University**, Shanghai, China <br>
-  Bachelor in Electrical and Computer Engineering | Sept 2017 - Aug 2021
+  B.S.E. in Electrical and Computer Engineering | Sept 2017 - Aug 2021
 
 Publications
 ======
 (* indicates equal contribution)
+* [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
+  Yifei He\*, Haoxiang Wang\*, Han Zhao. <br>
+  In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>
 * [Greedy Modality Selection via Approximate Submodular Maximization.](https://openreview.net/pdf?id=HzMNL_8i5g5) <br>
   Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>
   In <em>Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence.</em> (**UAI 2022**)

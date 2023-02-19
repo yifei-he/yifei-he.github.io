@@ -27,7 +27,7 @@ Publications
 ======
 (* indicates equal contribution)
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
-  Yifei He\*, Haoxiang Wang\*, Han Zhao. <br>
+  **Yifei He\***, Haoxiang Wang\*, Han Zhao. <br>
   In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>
 * [Greedy Modality Selection via Approximate Submodular Maximization.](https://openreview.net/pdf?id=HzMNL_8i5g5) <br>
   Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>

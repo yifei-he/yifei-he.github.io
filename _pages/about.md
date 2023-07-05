@@ -17,7 +17,7 @@ At University of Michigan, I worked on deep learning for survival analysis with 
 Education
 ======
 * **University of Illinois Urbana-Champaign**, Urbana, IL, USA <br>
-  Ph.D in Computer Science | Starting Aug 2023
+  Ph.D. in Computer Science | Starting Aug 2023
   M.S. in Computer Science | Aug 2021 - May 2023
 * **University of Michigan**, Ann Arbor, MI, USA <br>
   B.S.E. in Data Science, minor in Mathematics | Aug 2019 - May 2021

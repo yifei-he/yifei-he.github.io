@@ -33,7 +33,7 @@ Publications
 * [Greedy Modality Selection via Approximate Submodular Maximization.](https://openreview.net/pdf?id=HzMNL_8i5g5) <br>
   Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>
   In <em>Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence.</em> (**UAI 2022**)
-* [A Hierarchical Approach to Multi-Event Survival Analysis.](https://www.aaai.org/AAAI21Papers/AAAI-8417.TjandraD.pdf) <br>
+* [A Hierarchical Approach to Multi-Event Survival Analysis.](https://ojs.aaai.org/index.php/AAAI/article/view/16138) <br>
   Donna Tjandra, **Yifei He**, Jenna Wiens. <br>
   In <em>Proceedings of the 35th AAAI Conference on Artificial Intelligence.</em> (**AAAI 2021**)
 * [Conformer-RL: A Deep Reinforcement Learning Library for Conformer Generation.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26984) <br>

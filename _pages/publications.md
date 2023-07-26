@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +13,18 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+(* indicates equal contribution)
+* [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
+  **Yifei He\***, Haoxiang Wang\*, Han Zhao. <br>
+  In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>
+* [Greedy Modality Selection via Approximate Submodular Maximization.](https://openreview.net/pdf?id=HzMNL_8i5g5) <br>
+  Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>
+  In <em>Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence.</em> (**UAI 2022**)
+* [A Hierarchical Approach to Multi-Event Survival Analysis.](https://ojs.aaai.org/index.php/AAAI/article/view/16138) <br>
+  Donna Tjandra, **Yifei He**, Jenna Wiens. <br>
+  In <em>Proceedings of the 35th AAAI Conference on Artificial Intelligence.</em> (**AAAI 2021**)
+* [Conformer-RL: A Deep Reinforcement Learning Library for Conformer Generation.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26984) <br>
+  Runxuan Jiang, Tarun Gogineni, Joshua Kammeraad, **Yifei He**, Ambuj Tewari, Paul Zimmerman.   <br>
+  In <em>Journal of Computational Chemistry.</em>

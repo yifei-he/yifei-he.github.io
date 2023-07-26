@@ -24,7 +24,7 @@ Education
 * **Shanghai Jiao Tong University**, Shanghai, China <br>
   B.S.E. in Electrical and Computer Engineering | Sept 2017 - Aug 2021
 
-Publications
+<!-- Publications
 ======
 (* indicates equal contribution)
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
@@ -38,16 +38,16 @@ Publications
   In <em>Proceedings of the 35th AAAI Conference on Artificial Intelligence.</em> (**AAAI 2021**)
 * [Conformer-RL: A Deep Reinforcement Learning Library for Conformer Generation.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26984) <br>
   Runxuan Jiang, Tarun Gogineni, Joshua Kammeraad, **Yifei He**, Ambuj Tewari, Paul Zimmerman.   <br>
-  In <em>Journal of Computational Chemistry.</em>
+  In <em>Journal of Computational Chemistry.</em> -->
 
-Teaching
+<!-- Teaching
 ======
 * **CS 357 Numerical Methods I**, UIUC, 2022 Fall & 2022 Spring <br>
   Teaching Assistant
 * **CS 441 Applied Machine Learning**, UIUC, 2021 Fall <br>
   Teaching Assistant
 * **EECS 445 Intro to Machine Learning**, UM, 2020 Fall <br>
-  Instructional Aide
+  Instructional Aide -->
 
 
 <!-- ![](/images/1.jpg) ![](/images/2.jpg)

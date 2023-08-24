@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
+I am a Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
 
 My long-term research goal is to build efficient, generalizable and robust machine learning systems. I currently work on trustworthy machine learning, including domain adaptation/generalization, multi-task learning and multimodal learning.
 
@@ -17,12 +17,17 @@ At University of Michigan, I worked on deep learning for survival analysis with 
 Education
 ======
 * **University of Illinois Urbana-Champaign**, Urbana, IL, USA <br>
-  Ph.D. in Computer Science | Starting Aug 2023 <br>
+  Ph.D. in Computer Science | Aug 2023 - Present <br>
   M.S. in Computer Science | Aug 2021 - May 2023
 * **University of Michigan**, Ann Arbor, MI, USA <br>
   B.S.E. in Data Science, minor in Mathematics | Aug 2019 - May 2021
 * **Shanghai Jiao Tong University**, Shanghai, China <br>
   B.S.E. in Electrical and Computer Engineering | Sept 2017 - Aug 2021
+
+Experience
+======
+* **Amazon**, Seattle, WA, USA <br>
+  Applied Scientist Intern | May 2023 - Aug 2023 
 
 <!-- Publications
 ======

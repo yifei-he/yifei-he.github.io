@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [Gradual Domain Adaptation: Theory and Algorithms.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
+  **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
+  Arxiv preprint.
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
   **Yifei He\***, Haoxiang Wang\*, Han Zhao. <br>
   In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>

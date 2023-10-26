@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
-* [Gradual Domain Adaptation: Theory and Algorithms.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
+* [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
   **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
   Arxiv preprint.
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>

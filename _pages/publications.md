@@ -22,7 +22,7 @@ author_profile: true
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
   **Yifei He\***, Haoxiang Wang\*, Han Zhao. <br>
   In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>
-* [Greedy Modality Selection via Approximate Submodular Maximization.](https://openreview.net/pdf?id=HzMNL_8i5g5) <br>
+* [Greedy Modality Selection via Approximate Submodular Maximization.](https://arxiv.org/abs/2210.12562) <br>
   Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>
   In <em>Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence.</em> (**UAI 2022**)
 * [A Hierarchical Approach to Multi-Event Survival Analysis.](https://ojs.aaai.org/index.php/AAAI/article/view/16138) <br>

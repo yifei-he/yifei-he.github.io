@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* Efficient Modality Selection in Multimodal Learning. <br>
+  **Yifei He\***, Runxiang Cheng\*, Gargi Balasubramaniam\*, Yao-Hung Hubert Tsai, Han Zhao. <br>
+  In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) <br>
+  (Extended version of our UAI 2022 paper "Greedy Modality Selection via Approximate Submodular Maximization.")
 * [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
   **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
   Arxiv preprint.

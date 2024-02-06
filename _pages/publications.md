@@ -16,13 +16,16 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [Robust Multi-Task Learning with Excess Risks.](https://arxiv.org/abs/2402.02009) <br>
+  **Yifei He**, Shiji Zhou, Guojun Zhang, Hyokun Yun, Yi Xu, Belinda Zeng, Trishul Chilimbi, Han Zhao. <br>
+  Under review.
+* [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
+  **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
+  Under review.
 * Efficient Modality Selection in Multimodal Learning. <br>
   **Yifei He\***, Runxiang Cheng\*, Gargi Balasubramaniam\*, Yao-Hung Hubert Tsai, Han Zhao. <br>
   In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) <br>
   (Extended version of our UAI 2022 paper "Greedy Modality Selection via Approximate Submodular Maximization.")
-* [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
-  **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
-  Under review.
 * [Generative Gradual Domain Adaptation with Optimal Transport.](https://drive.google.com/file/d/17bjek_LWgQW7Tr-U9q2_Z41_F74NRukZ/view?usp=sharing) <br>
   **Yifei He\***, Haoxiang Wang\*, Han Zhao. <br>
   In <em>ICML Principles of Distribution Shift (PODS) Workshop, 2022.</em>

@@ -18,7 +18,7 @@ author_profile: true
 (* indicates equal contribution)
 * [Robust Multi-Task Learning with Excess Risks.](https://arxiv.org/abs/2402.02009) <br>
   **Yifei He**, Shiji Zhou, Guojun Zhang, Hyokun Yun, Yi Xu, Belinda Zeng, Trishul Chilimbi, Han Zhao. <br>
-  Under review.
+  In <em>Proceeding of the 41st International Conference on Machine Learning.<\em> (**ICML 2024**)
 * [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
   **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
   Under review.

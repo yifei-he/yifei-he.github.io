@@ -21,7 +21,7 @@ author_profile: true
   In <em>Proceeding of the 41st International Conference on Machine Learning.</em> (**ICML 2024**)
 * [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
   **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
-  Under review.
+  In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) 
 * [Efficient Modality Selection in Multimodal Learning.](https://jmlr.org/papers/v25/23-0439.html) <br>
   **Yifei He\***, Runxiang Cheng\*, Gargi Balasubramaniam\*, Yao-Hung Hubert Tsai, Han Zhao. <br>
   In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) <br>

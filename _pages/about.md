@@ -14,9 +14,11 @@ My research interest is centered around trustworthy machine learning. I currentl
 
 <h1>News</h1>
 
+* [May 2024] Start internship at Microsoft!
 * [May 2024] Have one paper accepted at JMLR! [[arxiv](https://arxiv.org/abs/2310.13852)] <br>
 * [May 2024] Have one paper accepted at ICML 2024! [[arxiv](https://arxiv.org/abs/2402.02009)] <br>
 * [Jan 2024] Have one paper accepted at JMLR! [[arxiv](https://jmlr.org/papers/v25/23-0439.html)] <br>
+* [May 2023] Start internship at Amazon!
  
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=8288ae&w=a&t=n&d=ly59zV1UzWi2oiROhB1R4JdoWHGFOp3VzSfO2zqMAPQ&co=ffffff&cmo=ff5378&cmn=ff5353&ct=ffffff"></script>    

@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic.](https://arxiv.org/abs/2408.13656)[[code](https://github.com/yifei-he/Localize-and-Stitch)]<br>
+  **Yifei He**, Yuzheng Hu, Yong Lin, Tong Zhang, Han Zhao. <br>
+  Preprint.
 * [Robust Multi-Task Learning with Excess Risks.](https://arxiv.org/abs/2402.02009) <br>
   **Yifei He**, Shiji Zhou, Guojun Zhang, Hyokun Yun, Yi Xu, Belinda Zeng, Trishul Chilimbi, Han Zhao. <br>
   In <em>Proceeding of the 41st International Conference on Machine Learning.</em> (**ICML 2024**)

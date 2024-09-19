@@ -14,11 +14,11 @@ My research interest is centered around trustworthy machine learning. I currentl
 
 <h1>News</h1>
 
+* [Sept 2024] Our paper on semi-supervised reward modeling is accepted at EMNLP 2024 Findings! [[arxiv](https://arxiv.org/abs/2409.06903)]
 * [Aug 2024] Start internship at Microsoft GenAI!
 * [May 2024] Start internship at Microsoft Turing!
-* [May 2024] Have one paper accepted at JMLR! [[arxiv](https://arxiv.org/abs/2310.13852)] <br>
-* [May 2024] Have one paper accepted at ICML 2024! [[arxiv](https://arxiv.org/abs/2402.02009)] <br>
-* [Jan 2024] Have one paper accepted at JMLR! [[arxiv](https://jmlr.org/papers/v25/23-0439.html)] <br>
+* [May 2024] Our paper on robust multi-task learning is accepted at ICML 2024! [[arxiv](https://arxiv.org/abs/2402.02009)] <br>
+* [May 2024] Our paper on gradual domain adaptation is accepted at JMLR! [[arxiv](https://arxiv.org/abs/2310.13852)] <br>
 * [May 2023] Start internship at Amazon!
  
 

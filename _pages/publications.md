@@ -21,7 +21,8 @@ author_profile: true
   Preprint.
 * [Semi-Supervised Reward Modeling via Iterative Self-Training.](https://arxiv.org/abs/2409.06903)[[code](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm)]<br>
   **Yifei He\***, Haoxiang Wang\*, Ziyan Jiang, Alexandros Papangelis, Han Zhao. <br>
-  Preprint.
+  In <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>. (**EMNLP 2024 Findings**)
+
 * [Robust Multi-Task Learning with Excess Risks.](https://arxiv.org/abs/2402.02009)[[code](https://github.com/yifei-he/ExcessMTL)]<br>
   **Yifei He**, Shiji Zhou, Guojun Zhang, Hyokun Yun, Yi Xu, Belinda Zeng, Trishul Chilimbi, Han Zhao. <br>
   In <em>Proceeding of the 41st International Conference on Machine Learning.</em> (**ICML 2024**)

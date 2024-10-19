@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [Scaling Laws for Multilingual Language Models.](https://arxiv.org/pdf/2410.12883)<br>
+  **Yifei He**, Alon Benhaim, Barun Patra, Praneetha Vaddamanu, Sanchit Ahuja, Parul Chopra, Vishrav Chaudhary, Han Zhao, Xia Song. <br>
+  Preprint.
+
 * [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic.](https://arxiv.org/abs/2408.13656)[[code](https://github.com/yifei-he/Localize-and-Stitch)]<br>
   **Yifei He**, Yuzheng Hu, Yong Lin, Tong Zhang, Han Zhao. <br>
   Preprint.

@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
-* [Scaling Laws for Multilingual Language Models.](https://arxiv.org/pdf/2410.12883)<br>
+* [Scaling Laws for Multilingual Language Models.](https://arxiv.org/abs/2410.12883)<br>
   **Yifei He**, Alon Benhaim, Barun Patra, Praneetha Vaddamanu, Sanchit Ahuja, Parul Chopra, Vishrav Chaudhary, Han Zhao, Xia Song. <br>
   Preprint.
 

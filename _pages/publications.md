@@ -20,9 +20,13 @@ author_profile: true
   **Yifei He**, Alon Benhaim, Barun Patra, Praneetha Vaddamanu, Sanchit Ahuja, Parul Chopra, Vishrav Chaudhary, Han Zhao, Xia Song. <br>
   Preprint.
 
+* [Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks.](https://arxiv.org/abs/2410.18210)<br>
+  Samuele Poppi, Zheng-Xin Yong, **Yifei He**, Bobbie Chern, Han Zhao, Aobo Yang, Jianfeng Chi. <br>
+  Preprint.
+
 * [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic.](https://arxiv.org/abs/2408.13656)[[code](https://github.com/yifei-he/Localize-and-Stitch)]<br>
   **Yifei He**, Yuzheng Hu, Yong Lin, Tong Zhang, Han Zhao. <br>
-  Preprint.
+  In <em>Transactions of Machine Learning Research</em>. (**TMLR**)
 * [Semi-Supervised Reward Modeling via Iterative Self-Training.](https://arxiv.org/abs/2409.06903)[[code](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm)]<br>
   **Yifei He\***, Haoxiang Wang\*, Ziyan Jiang, Alexandros Papangelis, Han Zhao. <br>
   In <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>. (**EMNLP 2024 Findings**)
@@ -32,10 +36,10 @@ author_profile: true
   In <em>Proceeding of the 41st International Conference on Machine Learning.</em> (**ICML 2024**)
 * [Gradual Domain Adaptation: Theory and Algorithms.](https://arxiv.org/abs/2310.13852)[[code](https://github.com/yifei-he/GOAT)] <br>
   **Yifei He\***, Haoxiang Wang\*, Bo Li, Han Zhao. <br>
-  In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) 
+  In <em>Journal of Machine Learning Research.</em> (**JMLR**) 
 * [Efficient Modality Selection in Multimodal Learning.](https://jmlr.org/papers/v25/23-0439.html) <br>
   **Yifei He\***, Runxiang Cheng\*, Gargi Balasubramaniam\*, Yao-Hung Hubert Tsai, Han Zhao. <br>
-  In <em>Journal of Machine Learning Research.</em> (**JMLR 2024**) <br>
+  In <em>Journal of Machine Learning Research.</em> (**JMLR**) <br>
   (Extended version of our UAI 2022 paper "Greedy Modality Selection via Approximate Submodular Maximization.")
 * [Greedy Modality Selection via Approximate Submodular Maximization.](https://arxiv.org/abs/2210.12562) <br>
   Runxiang Cheng\*, Gargi Balasubramaniam\*, **Yifei He\***, Yao-Hung Hubert Tsai, Han Zhao. <br>

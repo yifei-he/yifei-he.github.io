@@ -14,9 +14,9 @@ My research interest is centered around trustworthy machine learning. I currentl
 
 <h1>News</h1>
 
-* [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR!
+* [Jan 2025] Our work on [mechanistic interpretability](https://arxiv.org/abs/2410.18210) is accepted at NAACL 2025!
+* [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR! Check out how better localization improves model merging!
 * [Oct 2024] My Microsoft internship work on [Multilingual Scaling Laws](https://arxiv.org/pdf/2410.12883) is out! With this law, you can compute optimal sampling ratios of langauges to design your multilingual pretraining mixture for any model size!
-* [Sept 2024] Check out our new work [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) on how better localization improves model merging!
 * [Sept 2024] [Semi-Supervised Reward Modeling (SSRM)](https://arxiv.org/abs/2409.06903) is accepted at EMNLP 2024!
 * [Aug 2024] Start internship at Microsoft GenAI!
 * [May 2024] Start internship at Microsoft Turing!

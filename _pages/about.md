@@ -14,7 +14,7 @@ My research interest is centered around trustworthy machine learning. I currentl
 
 <h1>News</h1>
 
-* [Mar 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is out! Check out how we compress auxiliary experts to save inference costs and while maitaining performance!
+* [Mar 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is out! Check out how we compress auxiliary experts to save inference costs while maitaining performance!
 * [Jan 2025] Our work on [mechanistic interpretability](https://arxiv.org/abs/2410.18210) is accepted at NAACL 2025!
 * [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR! Check out how better localization improves model merging!
 * [Oct 2024] My Microsoft Turing internship work on [Multilingual Scaling Laws](https://arxiv.org/pdf/2410.12883) is out! With this law, you can compute optimal sampling ratios of langauges to design your multilingual pretraining mixture for any model size!

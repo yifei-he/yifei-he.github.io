@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
-* [Efficiently Editing Mixture-of-Experts Models with Compressed Experts.](https://arxiv.org/abs/2503.00634)<br>
+* [Efficiently Editing Mixture-of-Experts Models with Compressed Experts.](https://arxiv.org/abs/2503.00634)[[code](https://github.com/yifei-he/Compressed-Experts)]<br>
   **Yifei He**, Yang Liu, Chen Liang, Hany Awadalla.
 * [Scaling Laws for Multilingual Language Models.](https://arxiv.org/abs/2410.12883)<br>
   **Yifei He**, Alon Benhaim, Barun Patra, Praneetha Vaddamanu, Sanchit Ahuja, Parul Chopra, Vishrav Chaudhary, Han Zhao, Xia Song. <br>

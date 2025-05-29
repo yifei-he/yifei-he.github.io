@@ -16,10 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [MergeBench: A Benchmark for Merging Domain-Specialized LLMs.](https://arxiv.org/abs/2505.10833)[[code](https://github.com/uiuctml/MergeBench)]<br>
+  Yifei He, Siqi Zeng, Yuzheng Hu, Rui Yang, Tong Zhang, Han Zhao.<br>
 * [Efficiently Editing Mixture-of-Experts Models with Compressed Experts.](https://arxiv.org/abs/2503.00634)[[code](https://github.com/yifei-he/Compressed-Experts)]<br>
   **Yifei He**, Yang Liu, Chen Liang, Hany Awadalla.
 * [Scaling Laws for Multilingual Language Models.](https://arxiv.org/abs/2410.12883)<br>
   **Yifei He**, Alon Benhaim, Barun Patra, Praneetha Vaddamanu, Sanchit Ahuja, Parul Chopra, Vishrav Chaudhary, Han Zhao, Xia Song. <br>
+  *ACL 2025 Findings.*
 * [Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach.](https://arxiv.org/abs/2502.01015)<br>
   Siqi Zeng, **Yifei He**, Weiqiu You, Yifan Hao, Yao-Hung Hubert Tsai, Makoto Yamada, Han Zhao.
 * [Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks.](https://arxiv.org/abs/2410.18210)<br>

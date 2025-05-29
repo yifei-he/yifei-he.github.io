@@ -10,10 +10,12 @@ redirect_from:
 
 I am a Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). Previously, I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). 
 
-My research interest is centered around trustworthy machine learning. I currently work on i) Improving the multi-task capabilities of foundation models (e.g, [multilingual LLMs](https://arxiv.org/pdf/2410.12883), [model merging](https://arxiv.org/abs/2408.13656)). ii) Enhancing the efficiency of LLMs (e.g., [semi-supervised learning](https://arxiv.org/abs/2409.06903), [MoE](https://arxiv.org/abs/2503.00634)). Previously, I have worked on [multi-objective optimization](https://arxiv.org/abs/2402.02009), [domain adaptation](https://arxiv.org/abs/2310.13852) and [multimodal learning](https://jmlr.org/papers/v25/23-0439.html).
+My research interest is trustworthy foundation models. I currently work on i) Improving the multi-task capabilities of foundation models (e.g, [multilingual LLMs](https://arxiv.org/pdf/2410.12883), [model merging](https://arxiv.org/abs/2408.13656)). ii) Enhancing the efficiency of LLMs (e.g., [semi-supervised learning](https://arxiv.org/abs/2409.06903), [MoE](https://arxiv.org/abs/2503.00634)). Previously, I have worked on [multi-objective optimization](https://arxiv.org/abs/2402.02009), [domain adaptation](https://arxiv.org/abs/2310.13852) and [multimodal learning](https://jmlr.org/papers/v25/23-0439.html).
 
 <h1>News</h1>
 
+* [May 2025] I return to Microsoft Turing as an applied scientist intern!
+* [May 2025] [Multilingual Scaling Laws](https://arxiv.org/pdf/2410.12883) is accepted at ACL 2025!
 * [Mar 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is out! Check out how we compress auxiliary experts to save inference costs while maitaining performance!
 * [Jan 2025] Our work on [mechanistic interpretability](https://arxiv.org/abs/2410.18210) is accepted at NAACL 2025!
 * [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR! Check out how better localization improves model merging!

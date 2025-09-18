@@ -18,6 +18,7 @@ author_profile: true
 (* indicates equal contribution)
 * [MergeBench: A Benchmark for Merging Domain-Specialized LLMs.](https://arxiv.org/abs/2505.10833)[[code](https://github.com/uiuctml/MergeBench)]<br>
   **Yifei He**, Siqi Zeng, Yuzheng Hu, Rui Yang, Tong Zhang, Han Zhao.<br>
+  *NeurIPS 2025 Dataset and Benchmark Track.*
 * [Efficiently Editing Mixture-of-Experts Models with Compressed Experts.](https://arxiv.org/abs/2503.00634)[[code](https://github.com/yifei-he/Compressed-Experts)]<br>
   **Yifei He**, Yang Liu, Chen Liang, Hany Awadalla. <br>
   *EMNLP 2025 Findings.*

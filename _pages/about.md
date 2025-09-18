@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). I have also interned at Microsoft Turing, Microsoft GenAI, and Amazon Search Science & AI.
+I am a final-year Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). I have also interned at Microsoft Turing, Microsoft GenAI, and Amazon Search Science & AI.
 
 I am interested in making foundation models and agents learn from multiple sources and tasks in an efficient, robust and scalable manner. In particular, I work on 
 - Multimodal agent for computer use (preprint coming soon!)
@@ -21,6 +21,7 @@ Previously, I have worked on [multi-objective optimization](https://arxiv.org/ab
 
 <h1>News</h1>
 
+* [Sept 2025] [MergeBench](https://arxiv.org/abs/2505.10833) is accepted at NeurIPS 2025! We established the first standardized benchmark for merging domain-specialized LLMs!
 * [Aug 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is accpeted at EMNLP 2025! Check out how we compress auxiliary experts to save inference costs while maitaining performance!
 * [May 2025] I return to Microsoft Turing as an applied scientist intern working on reasoning for computer use agents!
 * [May 2025] My Microsoft Turing internship work [Multilingual Scaling Laws](https://arxiv.org/pdf/2410.12883) is accepted at ACL 2025! With this law, you can compute optimal sampling ratios of langauges to design your multilingual pretraining mixture for any model size!

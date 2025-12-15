@@ -16,7 +16,7 @@ I am interested in making foundation models and agents learn from multiple sourc
   - Developing model merging techniques to efficiently combine and continually edit domain specialized LLMs ([Localize-and-Stitch](https://arxiv.org/abs/2408.13656), [MergeBench](https://arxiv.org/abs/2505.10833)).
   - Improving LLM data ([Reward modeling](https://arxiv.org/abs/2409.06903)) and inference efficiency ([MoE](https://arxiv.org/abs/2503.00634)).
   - Understanding LLM behavior through the weight space ([Mechanistic interpretability](https://arxiv.org/abs/2410.18210)).
-- **Agentic AI**: Training capable Computer Use Agents (CUA) without human annotations ([WebSTAR](https://arxiv.org/abs/2512.10962)).
+- **Agentic AI**: Training Computer Use Agents (CUA) without human annotations ([WebSTAR](https://arxiv.org/abs/2512.10962)).
 
 <!-- - Multimodal agent for computer use (preprint coming soon!)
 - Multi-domain learning for foundation models ([model merging](https://arxiv.org/abs/2408.13656), [multilingual LLMs](https://arxiv.org/pdf/2410.12883))

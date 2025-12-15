@@ -10,10 +10,17 @@ redirect_from:
 
 I am a final-year Computer Science Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/), advised by [Prof. Han Zhao](https://hanzhaoml.github.io/). I obtained my dual bachelor's degree in Data Science from the [University of Michigan (UM)](https://cse.engin.umich.edu/) and in Electrical and Computer Engineering from [Shanghai Jiao Tong University (SJTU)](https://www.ji.sjtu.edu.cn/). I have also interned at Microsoft Turing, Microsoft GenAI, and Amazon Search Science & AI.
 
-I am interested in making foundation models and agents learn from multiple sources and tasks in an efficient, robust and scalable manner. In particular, I work on 
-- Multimodal agent for computer use (preprint coming soon!)
+I am interested in making foundation models and agents learn from multiple sources and tasks in an efficient, robust and scalable manner. My research involves the full life cycle of LLMs:
+- Pretraining: Deriving the optimal pretraining data mixture ([Multilingual scaling laws](https://arxiv.org/pdf/2410.12883)).
+- Posttraining: 
+  - Developing model merging techniques to efficiently combine and continually edit domain specialized LLMs ([Localize-and-Stitch](https://arxiv.org/abs/2408.13656), [MergeBench](https://arxiv.org/abs/2505.10833)).
+  - Improving LLM data ([reward modeling](https://arxiv.org/abs/2409.06903)) and inference efficiency ([MoE](https://arxiv.org/abs/2503.00634)).
+  - Understanding LLM behavior through the weight space ([Mechanistic interpretability](https://arxiv.org/abs/2410.18210)).
+- Agentic AI: Training capable Computer Use Agents (CUA) without human annotations ([WebSTAR](https://arxiv.org/abs/2512.10962)).
+
+<!-- - Multimodal agent for computer use (preprint coming soon!)
 - Multi-domain learning for foundation models ([model merging](https://arxiv.org/abs/2408.13656), [multilingual LLMs](https://arxiv.org/pdf/2410.12883))
-- LLM data ([reward modeling](https://arxiv.org/abs/2409.06903)) and inference efficiency ([MoE](https://arxiv.org/abs/2503.00634))
+- LLM data ([reward modeling](https://arxiv.org/abs/2409.06903)) and inference efficiency ([MoE](https://arxiv.org/abs/2503.00634)) -->
 
 Previously, I have worked on [multi-objective optimization](https://arxiv.org/abs/2402.02009), [domain adaptation](https://arxiv.org/abs/2310.13852) and [multimodal learning](https://jmlr.org/papers/v25/23-0439.html).
 
@@ -21,6 +28,7 @@ Previously, I have worked on [multi-objective optimization](https://arxiv.org/ab
 
 <h1>News</h1>
 
+* [Dec 2025] My new work on [Computer Use Agent](https://arxiv.org/abs/2512.10962) is released! We propose a scalable data synthesis pipeline for computer use agents with step-level filtering for efficient, high-quality CUA training without human annotations.
 * [Sept 2025] [MergeBench](https://arxiv.org/abs/2505.10833) is accepted at NeurIPS 2025! We established the first standardized benchmark for merging domain-specialized LLMs!
 * [Aug 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is accpeted at EMNLP 2025! Check out how we compress auxiliary experts to save inference costs while maitaining performance!
 * [May 2025] I return to Microsoft Turing as an applied scientist intern working on reasoning for computer use agents!

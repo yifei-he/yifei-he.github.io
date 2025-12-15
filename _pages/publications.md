@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 (* indicates equal contribution)
+* [Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering.](https://arxiv.org/abs/2512.10962)[[code](https://github.com/yifei-he/CUAStepFiltering)]<br>
+  **Yifei He\***, Pranit Chawla\*, Yaser Souri, Subhojit Som, Xia Song.<br>
 * [MergeBench: A Benchmark for Merging Domain-Specialized LLMs.](https://arxiv.org/abs/2505.10833)[[code](https://github.com/uiuctml/MergeBench)]<br>
   **Yifei He**, Siqi Zeng, Yuzheng Hu, Rui Yang, Tong Zhang, Han Zhao.<br>
   *NeurIPS 2025 Dataset and Benchmark Track.*

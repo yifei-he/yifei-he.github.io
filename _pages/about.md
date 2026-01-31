@@ -28,7 +28,7 @@ Previously, I have worked on [multi-objective optimization](https://arxiv.org/ab
 
 <h1>News</h1>
 
-* [Dec 2025] My new work on [Computer Use Agent](https://arxiv.org/abs/2512.10962) is released! We propose a scalable data synthesis pipeline for computer use agents with step-level filtering for efficient, high-quality CUA training without human annotations.
+* [Dec 2025] [WebSTAR](https://arxiv.org/abs/2512.10962) is released! We create the first large-scale computer-use agent dataset with step-level grading and detailed reasoning. Based on that, we propose a step-level filtering for efficient, high-quality CUA training without human annotations.
 * [Sept 2025] [MergeBench](https://arxiv.org/abs/2505.10833) is accepted at NeurIPS 2025! We established the first standardized benchmark for merging domain-specialized LLMs!
 * [Aug 2025] My Microsoft GenAI internship work on [efficient MoE editing](https://arxiv.org/abs/2503.00634) is accpeted at EMNLP 2025! Check out how we compress auxiliary experts to save inference costs while maitaining performance!
 * [May 2025] I return to Microsoft Turing as an applied scientist intern working on reasoning for computer use agents!

@@ -34,12 +34,12 @@ Previously, I have worked on [multi-objective optimization](https://arxiv.org/ab
 * [May 2025] I return to Microsoft Turing as an applied scientist intern working on reasoning for computer use agents!
 * [May 2025] My Microsoft Turing internship work [Multilingual Scaling Laws](https://arxiv.org/pdf/2410.12883) is accepted at ACL 2025! With this law, you can compute optimal sampling ratios of langauges to design your multilingual pretraining mixture for any model size!
 * [Jan 2025] Our work on [mechanistic interpretability](https://arxiv.org/abs/2410.18210) is accepted at NAACL 2025!
-* [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR! Check out how better localization improves model merging!
+* [Dec 2024] [Localize-and-Stitch](https://arxiv.org/abs/2408.13656) is accepted by TMLR! It is also awarded with TMLR J2C Certification, recognizing it as top 10% TMLR papers! Check out how better localization improves model merging!
 * [Sept 2024] [Semi-Supervised Reward Modeling (SSRM)](https://arxiv.org/abs/2409.06903) is accepted at EMNLP 2024!
 * [Aug 2024] Start internship at Microsoft GenAI working on improve MoE efficiency!
 * [May 2024] Start internship at Microsoft Turing working on multilingual scaling laws!
-* [May 2024] Our work on [robust multi-task learning](https://arxiv.org/abs/2402.02009) is accepted at ICML 2024!
-* [May 2024] Our work on [gradual domain adaptation](https://arxiv.org/abs/2310.13852) is accepted at JMLR! 
+* [May 2024] Our work on [Robust Multi-Task Learning](https://arxiv.org/abs/2402.02009) is accepted at ICML 2024! Check out how to learn effectively from multiple tasks even with severe label noise! 
+* [May 2024] Our work on [Gradual Domain Adaptation](https://arxiv.org/abs/2310.13852) is accepted at JMLR! Check out how to generate intermediate domains useful for large distribution shift!
 * [May 2023] Start internship at Amazon working on large-scale multi-task learning!
  
 

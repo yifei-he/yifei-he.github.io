@@ -34,7 +34,7 @@ author_profile: true
   *NAACL 2025 Findings.*
 * [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic.](https://arxiv.org/abs/2408.13656)[[code](https://github.com/yifei-he/Localize-and-Stitch)]<br>
   **Yifei He**, Yuzheng Hu, Yong Lin, Tong Zhang, Han Zhao. <br>
-  *TMLR.*
+  *TMLR (<span style="color: red;">J2C Certification</span>).*
 * [Semi-Supervised Reward Modeling via Iterative Self-Training.](https://arxiv.org/abs/2409.06903)[[code](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm)]<br>
   **Yifei He\***, Haoxiang Wang\*, Ziyan Jiang, Alexandros Papangelis, Han Zhao. <br>
   *EMNLP 2024 Findings.*
